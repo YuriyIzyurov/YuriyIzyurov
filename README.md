@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yura</h1>
-<h3 align="center">I'm React frontend developer</h3>
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 My current project link [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/)
