@@ -1,8 +1,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My current project links [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/)
-                               [https://yuriyizyurov.github.io/Leasing-calculator/](https://yuriyizyurov.github.io/Leasing-calculator/)
+- 👨‍💻 My current project links
+  - [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/)
+  - [https://yuriyizyurov.github.io/Leasing-calculator/](https://yuriyizyurov.github.io/Leasing-calculator/)
+                             
+                               
 
 - 📫 How to reach me **batm1x1@gmail.com**
 
