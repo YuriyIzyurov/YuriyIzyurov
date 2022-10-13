@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 My current project links
-  - [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/)
-  - [https://yuriyizyurov.github.io/Leasing-calculator/](https://yuriyizyurov.github.io/Leasing-calculator/)
+  - [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/) Социальная сеть
+  - [https://yuriyizyurov.github.io/Leasing-calculator/](https://yuriyizyurov.github.io/Leasing-calculator/) Калькулятор кредита
                              
                                
 
