@@ -4,7 +4,7 @@
 - 👨‍💻 My current project links
   - [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/) Социальная сеть
   - [https://yuriyizyurov.github.io/Leasing-calculator/](https://yuriyizyurov.github.io/Leasing-calculator/) Калькулятор кредита
-  - [https://interactive-sliderrrrr-j6x908vy9-yuriyizyurov.vercel.app/) Слайдер по историческим событиям
+  - [https://interactive-sliderrrrr.vercel.app/) Слайдер по историческим событиям
   
                              
                                
