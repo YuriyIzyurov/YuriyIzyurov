@@ -3,7 +3,8 @@
 - 👨‍💻 My current project links
   - [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/) Социальная сеть
   - [https://yuriyizyurov.github.io/Leasing-calculator/](https://yuriyizyurov.github.io/Leasing-calculator/) Калькулятор кредита
-  - [https://interactive-sliderrrrr.vercel.app/) Слайдер по историческим событиям
+  - [https://interactive-sliderrrrr.vercel.app/](https://interactive-sliderrrrr.vercel.app/) Слайдер по историческим событиям
+  - [https://yuriyizyurov.github.io/CRM-search-address/](https://yuriyizyurov.github.io/CRM-search-address/) CRM-поиск по адресам
   
                              
                                
