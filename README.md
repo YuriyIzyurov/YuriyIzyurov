@@ -1,7 +1,8 @@
 
 
 - 👨‍💻 My current project links
-  - [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/) Социальная сеть
+  - [https://social-network-frontend-delta.vercel.app/](https://social-network-frontend-delta.vercel.app/) Социальная сеть (TS, React, Redux, Node.js. Express, MongoDB) )
+  - [https://count-game-chi.vercel.app/](https://count-game-chi.vercel.app/) Игра для малышей на знание цифр и букв (TS, Next.js, React, MobX)
   - [https://yuriyizyurov.github.io/Leasing-calculator/](https://yuriyizyurov.github.io/Leasing-calculator/) Калькулятор кредита
   - [https://interactive-sliderrrrr.vercel.app/](https://interactive-sliderrrrr.vercel.app/) Слайдер по историческим событиям
   - [https://yuriyizyurov.github.io/CRM-search-address/](https://yuriyizyurov.github.io/CRM-search-address/) CRM-поиск по адресам
